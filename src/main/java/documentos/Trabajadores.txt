@@ -1,7 +1,0 @@
-Ana,Gómez,9876543-2,Colmena,Habitat
-Luis,Martinez,11111111-1,Banmédica,Modelo
-Jorge,Romero,22222222-2,Colmena,Modelo
-Juan,Pérez,12345678-9,Fonasa,Capital
-María,González,98765432-1,Colmena,Modelo
-Carlos,Soto,45678901-2,Banmédica,PlanVital
-papitas,Merken,11111111112-4,salsera,conkepchup
